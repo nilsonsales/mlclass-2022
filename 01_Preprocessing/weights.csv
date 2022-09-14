@@ -1,0 +1,2 @@
+Accuracy,Weights,Features,X_len,Normalizer
+0.6785714285714286,"[0.0, 15.23911166331835, 1.4970045453726044, 6.978915495804894, 0.0]","['Pregnancies', 'Glucose', 'BloodPressure', 'BMI', 'DiabetesPedigreeFunction']",196,PowerTransformer()
